@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Javascript, React
 - 📫 How to reach me: [<img src="https://raw.githubusercontent.com/sannoob/Sannoob/master/discordLogo.png" width="16" height="16" align="center"> Sannoob#3144](https://discordapp.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&layout=compact&hide_border=true">
-
-[![Sannoob's Profile](https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true&count_private=true)](https://github.com/sannoob)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&layout=compact&hide_border=true" alt="Top used languages">
+<br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true&count_private=true" alt="Sannoob's Profile">
 
 <!--
 **sannoob/Sannoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

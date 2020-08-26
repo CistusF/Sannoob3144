@@ -1,10 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [@SiruBOT](https://github.com/SiruBOT)
 - 🌱 I’m currently learning Javascript, React
-- 📫 How to reach me: [Sannoob#0001](https://discordapp.com)
+- 📫 How to reach me: [Sannoob#3144](https://discordapp.com)
 
-- ⚡ Fun fact: In Javascript ``[] + []`` returns ``""``
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&layout=compact)](https://github.com/Sannoob)   
 [![Sannoob's Profile](https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true)](https://github.com/sannoob)
 
 <!--

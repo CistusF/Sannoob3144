@@ -6,7 +6,6 @@
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&layout=compact&hide_border=true)   
 ![Sannoob's Profile](https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true&count_private=true)   
-<br>
 ![Spotify Status](https://github-spotify-status.sannoob.vercel.app/api/spotify)
 
 <!--

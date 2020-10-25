@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 - 🔭 I’m currently working on [@SiruBOT](https://github.com/SiruBOT)
-- 🌱 I’m currently learning Javascript, React
+- 🌱 I’m currently learning Typescript, Javascript, Go
 - 📫 How to reach me: [<img src="https://raw.githubusercontent.com/sannoob/Sannoob/master/discordLogo.png" width="16" height="16" align="center"> Sannoob#3144](https://discord.com)
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&layout=compact&hide_border=true)   

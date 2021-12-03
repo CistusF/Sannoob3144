@@ -1,9 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
+<br>
 
 - 🌱 I’m currently learning Typescript, C++, C, C#, Unity, Web Application
 - 📫 How to reach me: [<img src="https://raw.githubusercontent.com/sannoob/Sannoob/master/discordLogo.png" width="16" height="16" align="center"> Sannoob#3144](https://discord.com)
+- 🔭 I’m currently working on [SiruBOT](https://github.com/SiruBOT) [Github Project](https://github.com/SiruBOT/SiruBOT/projects/2)
+<h1 align="center"><h1>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&hide_border=true&langs_count=10&layout=compact" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true&count_private=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sannoob&hide_border=true&layout=compact" /><br>

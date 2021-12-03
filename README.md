@@ -5,8 +5,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&hide_border=true&langs_count=10&layout=compact" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sannoob&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true&count_private=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sannoob&hide_border=true&layout=compact" /><br>
   <img src="https://github-profile-trophy.vercel.app/?username=sannoob" />
 </p>
 

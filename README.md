@@ -1,17 +1,22 @@
 <h1 align="center">Hi there 👋</h1>
 <br>
-
-- 🌱 I’m currently learning Typescript, Unity, C#
-- 📫 How to reach me: [<img src="https://raw.githubusercontent.com/sannoob/Sannoob/master/discordLogo.png" width="16" height="16" align="center"> Sannoob#3144](https://discord.com)
+<p align="center">
+  🌱 I’m currently learning Typescript, Unity, C#
+  <br>
+  <details>
+    <summary align="center">📫 How to reach me</summary>
+    <a href="https://discord.com"><img src="https://raw.githubusercontent.com/sannoob/Sannoob/master/discordLogo.png" width="16" height="16" align="center"> Sannoob#3144</a>
+  </details>
+</p>
 
 <details>
-  <summary>Github stats</summary>
-  <p align="center">
+  <summary align="center">📊 Github stats</summary>
+<!--   <p align="center"> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&hide_border=true&langs_count=10&layout=compact" /><br>
     <img src="https://github-readme-stats.vercel.app/api?username=Sannoob&show_icons=true&hide_border=true&count_private=true" /><br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sannoob&hide_border=true&layout=compact" /><br>
     <img src="https://github-profile-trophy.vercel.app/?username=sannoob" />
-  </p>
+<!--   </p> -->
 </details>
 
 <!--

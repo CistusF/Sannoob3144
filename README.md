@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning Typescript, Unity, C#
 - 📫 How to reach me: [<img src="https://raw.githubusercontent.com/sannoob/Sannoob/master/discordLogo.png" width="16" height="16" align="center"> Sannoob#3144](https://discord.com)
-- 🔭 I’m currently working on [SiruBOT](https://github.com/SiruBOT) [Github Project](https://github.com/SiruBOT/SiruBOT/projects/2)
-<h1 align="center"><h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannoob&hide_border=true&langs_count=10&layout=compact" /><br>
